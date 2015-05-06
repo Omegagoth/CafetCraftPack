@@ -1,0 +1,5 @@
+1. Back up original grass files, you can use the folder I left for you.
+
+2. Copy these files into Assets/minecraft/mcpatcher/ctm/random/grass
+
+3. Your done :D

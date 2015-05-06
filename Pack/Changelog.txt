@@ -1,0 +1,49 @@
+CHROMA HILLS CHANGE LOG V.9 
+
+BLOCKS 
+
+1.8 blocks works in latest snapshots.
+Pris bricks 1.8
+Pris Dark 1.8
+Pris 1.8
+Sea lantern 1.8
+Wet sponge 1.8
+Iron trapdoor 1.8
+Slime block 1.8
+Coarse dirt 1.8
+Daylight sensor day/night 1.8
+Armor stand 1.8
+Improved redstone lamp 
+Improved gold ore
+New look soul sand
+Dragon egg
+Birch sapling
+Jungle sapling
+Acacia sapling
+Dark oak sapling
+Red sandstone 1.8
+Red sandstone carved 1.8
+Red sandstone smooth 1.8
+Banners 1.8
+improved crafting table
+
+ITEMS
+Salmon raw
+Salmon cooked
+Spider eye
+Fermented spider eye
+Compass
+Lead
+Rotten zombie flesh
+Nether star
+Sugar cane
+Clay
+Leather
+Gold ingot
+Rabbit raw
+Rabbit cooked
+Clock
+Diamond Hoe
+
+
+Sidegrass normal map for SEUS
